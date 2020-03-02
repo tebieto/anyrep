@@ -1,0 +1,7 @@
+{
+  "name": "anyrep-v-1",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

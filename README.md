@@ -5,7 +5,7 @@ With AnyRep, class reps can automate announcements, update weekly time table, se
 
 ## Bonus Feature
  
-Monthly inter-school and intra-school competition feature. Classes from various schools on the platform compete for cash prices.
+Monthly inter-school and intra-school competition feature. Classes from various schools on the platform compete for cash prizes.
 
 ## Stack
 

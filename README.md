@@ -19,4 +19,4 @@ I'll be using Ionic AppFlow for Continous Integration and Deployment
 
 ## Flow
 
-I'll be using GitFLow for this project(Master, Development, feature branches)
+I'll be using GitFLow for this project(Master, Development, Feature branches)
